@@ -1,0 +1,2 @@
+# subsync
+Synchronisation of subtitles
